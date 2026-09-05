@@ -9,4 +9,4 @@
 
 ---
 
-LINK DEL CUADERNO:[[cuaderno[](https://notebook.google.com/notebook/8223ebc4-288a-4ed8-a222-25c2447ab03e)]
+LINK DEL CUADERNO:[[cuaderno](https://notebook.google.com/notebook/8223ebc4-288a-4ed8-a222-25c2447ab03e)]
